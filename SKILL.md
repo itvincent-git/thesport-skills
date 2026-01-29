@@ -1,5 +1,5 @@
 ---
-name: thesport data
+name: thesport-data
 description: Provides access to TheSports Football API documentation, endpoints, and data structures for competitions, matches, players, teams, and odds. Use when Gemini CLI needs to integrate with TheSports API to fetch football data.
 ---
 
