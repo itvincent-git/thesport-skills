@@ -1,9 +1,9 @@
 ---
-name: football-data-crawler
+name: thesport data
 description: Provides access to TheSports Football API documentation, endpoints, and data structures for competitions, matches, players, teams, and odds. Use when Gemini CLI needs to integrate with TheSports API to fetch football data.
 ---
 
-# Football Data Crawler Skill
+# Thesport Data Skill
 
 This skill provides comprehensive documentation and schema definitions for TheSports Football API.
 
